@@ -2,10 +2,10 @@
 
 ![TheGreatRambler's GitHub stats](https://github-readme-stats.vercel.app/api?username=thegreatrambler&include_all_commits=true&theme=merko)
 
-I'm TheGreatRambler, a guy interested in a wide variety of software disciplines. I have experience in many different fields of study and interest in many more. I hope you will check out some of my work. My main languages are **C++** and **Typescript**.
+I'm TheGreatRambler, a guy interested in a wide variety of software disciplines. I have experience in many different fields of study and interest in many more. I hope you will check out some of my work. My main languages are **C++**, **Typescript** and **Go**.
 
 ## Currently working on:
-* Mario Maker 2 API
+* Mario Maker 2 reverse engineered server (OpenCourseWorld)
 * Webassembly compiler/compressor
 
 If you would like to see more, please:
